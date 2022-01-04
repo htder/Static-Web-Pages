@@ -90,7 +90,7 @@ h2 {
 
 .middle--information figcaption {
   padding-top: 8px;
-  font-size: 18px;
+  font-size: 16px;
   text-align: center;
   width: 60%;
   justify-content: space-between;
@@ -145,4 +145,36 @@ h2 {
 .inset-content-grey-extra {
   background-color: #e5e7eb;
   padding: 0 45px 0 45px;
+}
+
+.signup--container {
+  display: flex;
+  background-color: #3882f6;
+}
+
+.signup-info h3 {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.signup-info p {
+  font-size: 16px;
+  color: #e5e7eb;
+}
+.signup-info {
+  margin-left: 45px;
+}
+
+.signup-button {
+  background-color: #3882f6;
+  color: #e5e7eb;
+  border-color: #e5e7eb;
+  margin-left: auto;
+  border-radius: 5px;
+  margin-right: 45px;
+}
+
+.copyright {
+  text-align: center;
+  color: #f9faf8;
 }
